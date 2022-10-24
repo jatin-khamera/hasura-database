@@ -6,4 +6,10 @@ Setup configuration to deploy hasura DB on local system.
 
 - Requires Python 3.0+
 - Requires Jupyter Notebook
-- Required Anaconda
+- Requires Anaconda
+- NodeJS
+- Python V3+
+
+## Operating System
+
+- Debian
